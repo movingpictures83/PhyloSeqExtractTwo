@@ -1,0 +1,6 @@
+OTU     asv.tab.csv
+TAX     asv.taxonomy.csv
+META    sample_data.csv
+FILTER1	A
+FILTER2	B
+column	category
